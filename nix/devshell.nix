@@ -11,6 +11,11 @@ perSystem.devshell.mkShell {
     '';
 
     commands = [
+        {
+            name = "hugo";
+            package = pkgs.hugo;
+            category = "[dev]";
+        }
     ];
 
     packages = with pkgs; [
