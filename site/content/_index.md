@@ -1,9 +1,10 @@
-# About Me
-Upon graduation, I am eager to contribute to advancing aerospace propulsion and furthering the journey of space exploration.
+# about
 
-I am currently pursuing an Aerospace Engineering Major and a Physics Minor at the University of Maryland. I am currently working on designing and building a prototype magnetic nozzle with Dr. JAY at the University of Maryland, in conjunction with UMD's Space Power and Propulsion Lab.
+this website is home to my thoughts on anything and everything. it's not much of a [garden](https://indieweb.org/digital_garden), but i'm working on that.
 
-# Interests
+i like a lot of stuff, and my interests vary greatly. currently, i am studying aerospace engineering at the university of maryland, with the goal of researching space propulsion.
+
+# interests
 - [citedrive](https://citedrive.com)
 - [nix](https://github.com/NixOS/nixpkgs)
 - [keyboards](https://github.com/vaisriv/kaluza-kb)
